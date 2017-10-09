@@ -6,3 +6,4 @@ A collection of delicious docker recipes.
 ## Dockerfile list 
 
 - [x] json-server
+- [x] nginx-node 
